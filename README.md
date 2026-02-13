@@ -10,6 +10,15 @@ This repository presents a unified research program on intelligence transformati
 
 ---
 
+## Research Models
+
+- [Magnum Opus Model](./models/magnum_opus.html)
+- [Great Transmutation Visualization](./models/the_great_transmutation.html)
+- [Probabilistic Analysis](./models/Probabilistic_Models_Analysis.docx)
+
+---
+
+
 ## ⚗️ Interactive Research Models
 
 ### → The Magnum Opus: Probabilistic Catastrophe Model
