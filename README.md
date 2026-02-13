@@ -1,272 +1,130 @@
-# AI Research — Modern Alchemy（現代の錬金術）
+---
+
+# ⚗️ MODERN ALCHEMY — RESEARCH NOTICE（現代の錬金術）
+
+Civilizations are not permanent structures.  
+They are temporary arrangements of intelligence, matter, and belief.
+
+The conditions that produced the modern world were historically contingent.  
+They may not persist.
+
+This research examines the transformation now unfolding.
+
+静かな変化はすでに始まっている。
 
 ---
 
-## Magnum Opus — Core Models & Visual Analysis
+## The Premise
 
-This repository presents a unified research program on intelligence transformation, economic transmutation, and governance limits.
+Alchemy was never merely the transformation of matter.
 
- **New readers should begin with the models below, then read the three core papers.**
+It was the transformation of order itself.
+
+- base elements reorganized  
+- form dissolved and reconstituted  
+- value transmuted  
+- identity altered  
+
+Artificial intelligence represents a comparable process:
+
+the reorganization of intelligence as a structural force.
+
+Every transformation carries cost.  
+Every transmutation requires exchange.
+
+The models below examine the possible price.
 
 ---
 
-## Research Models
+## Primary Computational Models (Magnum Opus)
 
-- [Magnum Opus Model](./models/magnum_opus.html)
-- [Great Transmutation Visualization](./models/the_great_transmutation.html)
-- [Probabilistic Analysis](./models/Probabilistic_Models_Analysis.docx)
+These materials describe structural transition processes observed in current technological trajectories.
+
+They do not argue.  
+They describe.
 
 ---
 
+### ⚗️ Magnum Opus — Probabilistic Systems Model
 
-## ⚗️ Interactive Research Models
+A quantitative decomposition of large-scale transformation.
 
-### → The Magnum Opus: Probabilistic Catastrophe Model
-Interactive Bayesian and Markov analysis of civilizational transformation.
+Examines:
 
- **Open Model:**  
+- intelligence scaling beyond human reference  
+- irreversible cognitive dependence  
+- structural limits of governance  
+- systemic transition pathways  
+
+**OPEN**  
 https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/magnum_opus.html
 
 ---
 
-### → The Great Transmutation (Complete Visual Analysis)
-Full structural visualization of intelligence, economy, and social transition.
+### ⚗️ The Great Transmutation — Structural Analysis
 
-👉 **Open Visualization:**  
+A visualization of civilizational restructuring under expanding machine intelligence.
+
+Explores:
+
+- redistribution of capability  
+- emergence of new hierarchies of intelligence  
+- concentration of decision authority  
+- irreversible institutional change  
+
+不可逆的な変化。
+
+**OPEN**  
 https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/the_great_transmutation.html
 
 ---
 
-### → Probabilistic Models (Mathematical Analysis)
-Formal quantitative framework and empirical model specification.
+### 📜 Probabilistic Models — Mathematical Analysis
 
-👉 **Read Paper:**  
+Formal specification of transition dynamics and empirical assumptions.
+
+Includes:
+
+- Bayesian decomposition of systemic risk  
+- Markov state transitions  
+- structural constraints  
+- quantitative limits  
+
+**OPEN**  
 https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/Probabilistic_Models_Analysis.docx
 
 ---
 
-## Required Reading Order
+## Reading Sequence
 
-1. Digital Philosopher’s Stone  
-2. Economic Transmutation  
-3. The Stone’s Shadow  
-4. Magnum Opus Models (above)
+This work forms a single investigation into civilizational transformation:
 
-### Spencer Kitaro Cottrell  
-San José State University  
-Economics · Intelligence · Systems Inquiry
+1. **The Digital Philosopher’s Stone** — Mechanisms of Intelligence Expansion  
+2. **Economic Transmutation** — Reorganization of Value  
+3. **The Stone’s Shadow** — Limits of Control  
+4. **Magnum Opus Models** — Computational Integration
 
-Language: English | 日本語 → README_JP.md
+The framework examines one question:
 
----
-
-## Release Metadata
-
-Research Program: Modern Alchemy  
-
-Current Release: v0.3 — Magnum Opus Release  
-Version: 0.3 (Probabilistic Modeling & Visual Systems)
-
-Includes:
-- Existential risk probabilistic models
-- Cognitive dissolution Markov analysis
-- Magnum Opus visual system
-- Transmutation visualization suite
-
-Last Updated: Feb 13, 2026
-Maintained by: Spencer K. Cottrell
+What remains of human order when intelligence itself becomes the dominant element?
 
 ---
 
-## Primary Research Papers (Core Work)
+## Reader Orientation
 
-The following papers represent the central research contributions of this repository  
-& the primary theoretical and analytical foundation of the Modern Alchemy research program.
+This research does not predict outcomes.
 
-For readers seeking the main work, begin here.
+It examines structural conditions under which:
 
+- existing roles may dissolve  
+- economic value may be redefined  
+- cognitive autonomy may erode  
+- institutions may transform beyond recognition  
 
-### The Digital Philosopher’s Stone  
+Transformation is neither moral nor immoral.
 
-→ **1) Read:** [Digital Philosopher’s Stone](./digital-philosophers-stone.pdf)
+It is process.
 
----
-### Economic Transmutation  
-
-→ **2) Read:** [Economic Transmutation](./economic-transmutation.pdf)
-
----
-
-### The Stone’s Shadow   
-
-→ **3) Read:** [The Stone’s Shadow](./the-stones-shadow.pdf)
+理解が必要である。
 
 ---
-
-## Magnum Opus — The Transmutation Engine & Probabilistic Instruments of Collapse
-
-> ⚠️ **CONTENT ADVISORY — DISTURBING PROJECTIONS**
->
-> The artifacts below contain probabilistic models and visual systems analyzing **irreversible** civilizational trajectories, including:
-> **existential risk**, **cognitive dissolution**, **loss of agency**, and **absorbing terminal states**.
->
-> Some readers may find these projections **deeply unsettling**.  
-> They are presented as **mathematical consequences of observed trends** — not as entertainment, and not as speculation.
->
-> **Reader discretion is advised.** Proceed only if you are prepared to confront uncomfortable conclusions.
-
-
-
-
-
-Models and visuals that quantify the irreversible: extinction risk and cognitive absorption.
-
-
-- **The Death Equation (Interactive Infographic)** → `/research/magnum-opus/magnum_opus.html`
-- **Solve et Coagula (Transmutation Visualization)** → `/research/magnum-opus/dark_transmutation.html`
-- **The Vestigial State Paper (Formal Analysis)** → `/research/magnum-opus/probabilistic_models.docx`
-
-
-## Research Overview
-
-This repository investigates artificial intelligence through the philosophical tradition of alchemy — the study of transformation, consequence, and the limits of knowledge.
-
-Where classical alchemy sought transformation of matter, modern artificial intelligence enables transformation of cognition, agency, and decision-making itself.
-
-The research examines artificial intelligence as a structural force capable of reorganizing economic systems, human authority, and institutional decision processes.
-
-Primary focus:
-
-- transformation
-- consequence
-- exchange
-- structural change
-- limits of control
-
----
-
-## Research Status Matrix
-
-| Domain | Status |
-|---|---|
-| Intelligence Transformation | Active |
-| Autonomous Agency Analysis | Active |
-| Economic Displacement Modeling | Active |
-| Governance Constraint Study | Active |
-
----
-
-## Philosophical Foundation — The Philosopher’s Stone
-
-Classical alchemy was a philosophical inquiry into transformation and ultimate knowledge.
-
-The Philosopher’s Stone symbolized the capacity to alter reality — to transform substance, knowledge, and existence.
-
-Artificial intelligence represents a modern analogue to this pursuit.  
-The object of transformation is no longer matter, but intelligence itself.
-
-This research examines whether the pursuit of artificial intelligence reflects a recurring impulse to exceed natural limits and produce intelligence beyond human origin.
-
----
-
-## Transformation and Consequence — Equivalent Exchange
-
-Transformation implies exchange.
-
-Power introduces cost.  
-Creation introduces consequence.
-
-Artificial intelligence raises structural questions:
-
-- What is exchanged when labor is displaced?
-- What is sacrificed when decision authority shifts?
-- What is lost when knowledge becomes externalized?
-- What is the cost of autonomous intelligence?
-
-Transformation may redistribute power, agency, and control across human systems.
-
----
-
-## Structural Transformation
-
-Artificial intelligence introduces systemic reorganization across:
-
-- labor and economic production
-- institutional decision authority
-- knowledge distribution
-- human–machine relationship
-
-The research examines transformation as structural transition rather than incremental progress.
-
----
-
-## Limits of Knowledge
-
-Increasing system complexity may exceed human interpretability.
-
-This introduces epistemic constraints:
-
-- incomplete understanding
-- limited predictability
-- uncertain control boundaries
-
-The research analyzes these limits.
-
----
-
-## Research Program — Modern Alchemy (2026)
-
-### I — The Digital Philosopher’s Stone
-Autonomous intelligence and emergent agency.  
-→ [Read Paper](./digital-philosophers-stone-v0.1.pdf)
-
-### II — Economic Transmutation
-Structural economic transformation.  
-→ [Read Paper](./economic-transmutation-v0.1.pdf)
-
-### III — The Stone’s Shadow
-Limits of control and unintended consequence.  
-→ [Read Paper](./the-stones-shadow-v0.1.pdf)
-
----
-
-
-## Methodological Orientation
-
-- structural systems analysis  
-- probabilistic reasoning  
-- economic modeling perspectives  
-- governance analysis  
-- philosophy of knowledge  
-
-Objective: conceptual clarity and structural understanding.
-
----
-
-## International Research Context
-
-The transformation of intelligence is a global inquiry.
-
-United States — large-scale computational systems  
-Japan — precision systems and human–machine integration  
-
-This research engages dialogue across international research communities, including Silicon Valley and Tokyo.
-
----
-
-## Citation
-
-Cottrell, Spencer K. (2026). *Modern Alchemy Research Program*.  
-GitHub Repository.
-
----
-
-## Author
-
-Spencer Kitaro Cottrell  
-Economics & Artificial Intelligence  
-San José State University
-
-研究・真理・変換
-
-
