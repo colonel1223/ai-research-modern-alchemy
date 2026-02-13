@@ -1,37 +1,51 @@
-<details>
-<summary><strong>日本語（概要）</strong></summary>
+# AI Research — Modern Alchemy
+### Spencer Kitaro Cottrell · San José State University
 
-## AI Research — Modern Alchemy（現代の錬金術）
-
-本リポジトリは、人工知能（AI）を **「現代の錬金術」** ――すなわち「変換（transformation）」のプロセスとして捉え、  
-**認知（cognition）・経済（economic systems）・統治（governance）** に与える影響を研究するためのワーキングペーパー集です。
-
-古典的な錬金術が「賢者の石（Philosopher’s Stone）」や物質の変成（transmutation）を追究したのに対し、  
-現代のAIは **知性そのものの変換**、価値創造の再編、人間の意思決定と統制の限界という問いを突きつけます。
+🌐 **Language / 言語:** 🇺🇸 English | 🇯🇵 [日本語はこちら](README_JP.md)
 
 ---
 
-## 論文（Working Papers）
+**Current Release:** v0.1  
+**Status:** Working Papers — Ongoing Research  
 
-### The Digital Philosopher’s Stone（デジタル賢者の石）
-知性のスケーリングを「変換プロセス」としてモデル化し、自律的エージェンシーの出現を扱います。  
-→ [論文を読む / Read](digital-philosophers-stone-v0.1.pdf)
+This repository presents a research program investigating artificial intelligence as a continuation of the historical tradition of **alchemy** — the study of transformation in matter, knowledge, and power.
 
----
-
-### Economic Transmutation（経済の変成）
-高度なAIが生産・価値配分・意思決定構造をどのように再編するかを分析します。  
-→ [論文を読む / Read](economic-transmutation-v0.1.pdf)
+Where classical alchemy sought the philosopher’s stone and the transmutation of materials, modern artificial intelligence raises parallel questions about the transformation of intelligence itself, the restructuring of economic systems, and the limits of human control over autonomous processes.
 
 ---
 
-### The Stone’s Shadow（石の影）
-自律性が増すシステムにおける失敗モード、統制・ガバナンス上の限界、意図しない帰結を扱います。  
-→ [論文を読む / Read](the-stones-shadow-v0.1.pdf)
+## Research Program — Modern Alchemy (2026)
+
+This research examines artificial intelligence as a process of transformation across three domains:
+
+1. **The Digital Philosopher’s Stone** — transformation of intelligence and emergence of autonomous agency  
+2. **Economic Transmutation** — restructuring of value and production under machine intelligence  
+3. **The Stone’s Shadow** — unintended consequences and limits of human governance  
 
 ---
 
-## ステータス
-ワーキングペーパー（継続研究）。
+## Papers
 
-</details>
+### The Digital Philosopher’s Stone
+→ [Read Paper](digital-philosophers-stone-v0.1.pdf)
+
+### Economic Transmutation
+→ [Read Paper](economic-transmutation-v0.1.pdf)
+
+### The Stone’s Shadow
+→ [Read Paper](the-stones-shadow-v0.1.pdf)
+
+---
+
+## Research Roadmap
+
+- autonomous agent behavior modeling  
+- economic simulation systems  
+- governance and alignment frameworks  
+- intelligence transformation theory  
+
+---
+
+## Citation
+
+Cottrell, Spencer K. (2026). *Modern Alchemy Research Series*.
