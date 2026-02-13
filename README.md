@@ -21,6 +21,42 @@ Maintainer: Spencer K. Cottrell
 
 ---
 
+---
+
+## Primary Research Papers (Core Work)
+
+The following papers represent the central research contributions of this repository.  
+They provide the primary theoretical and analytical foundation of the Modern Alchemy research program.
+
+For readers seeking the main work, begin here.
+
+---
+
+### The Digital Philosopher’s Stone  
+**Focus:** Autonomous intelligence and emergent agency  
+Study of the transformation of computational systems into independent actors.
+
+→ **Read:** [Digital Philosopher’s Stone](./digital-philosophers-stone.pdf)
+
+---
+
+### Economic Transmutation  
+**Focus:** Structural economic transformation under machine intelligence  
+Analysis of value redistribution, labor displacement, and systemic change.
+
+→ **Read:** [Economic Transmutation](./economic-transmutation.pdf)
+
+---
+
+### The Stone’s Shadow  
+**Focus:** Limits of control and unintended consequence  
+Investigation of governance constraints, alignment challenges, and structural risk.
+
+→ **Read:** [The Stone’s Shadow](./the-stones-shadow.pdf)
+
+---
+
+
 ## Research Overview
 
 This repository investigates artificial intelligence through the philosophical tradition of alchemy — the study of transformation, consequence, and the limits of knowledge.
