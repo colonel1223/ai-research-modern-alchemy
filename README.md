@@ -11,12 +11,10 @@ Language: English | 日本語 → README_JP.md
 ## Release Metadata
 
 Research Program: Modern Alchemy  
-Current Release: Initial Research Publication  
-Version: 0.1 (Conceptual Framework)  
+Current Release: v0.3 — Magnum Opus Release  
+Version: 0.3 (Probabilistic Modeling & Visual Systems)
 
-Theoretical / Structural Analysis   Intelligence Transformation · Economic Displacement · Governance Limits  
-
-Last Updated: 2026  
+Last Updated: Feb 13, 2026
 Maintainer: Spencer K. Cottrell
 
 ---
