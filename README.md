@@ -14,6 +14,12 @@ Research Program: Modern Alchemy
 Current Release: v0.3 — Magnum Opus Release  
 Version: 0.3 (Probabilistic Modeling & Visual Systems)
 
+Includes:
+- Existential risk probabilistic models
+- Cognitive dissolution Markov analysis
+- Magnum Opus visual system
+- Transmutation visualization suite
+
 Last Updated: Feb 13, 2026
 Maintainer: Spencer K. Cottrell
 
