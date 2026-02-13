@@ -25,19 +25,17 @@ Maintainer: Spencer K. Cottrell
 
 ## Primary Research Papers (Core Work)
 
-The following papers represent the central research contributions of this repository.  
-They provide the primary theoretical and analytical foundation of the Modern Alchemy research program.
+The following papers represent the central research contributions of this repository  
+& the primary theoretical and analytical foundation of the Modern Alchemy research program.
 
 For readers seeking the main work, begin here.
 
 ---
-
 ### The Digital Philosopher’s Stone  
 
 → **Read:** [Digital Philosopher’s Stone](./digital-philosophers-stone.pdf)
 
 ---
-
 ### Economic Transmutation  
 
 → **Read:** [Economic Transmutation](./economic-transmutation.pdf)
@@ -46,7 +44,6 @@ For readers seeking the main work, begin here.
 
 ### The Stone’s Shadow  
 **Focus:** Limits of control and unintended consequence  
-Investigation of governance constraints, alignment challenges, and structural risk.
 
 → **Read:** [The Stone’s Shadow](./the-stones-shadow.pdf)
 
