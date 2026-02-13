@@ -33,16 +33,12 @@ For readers seeking the main work, begin here.
 ---
 
 ### The Digital Philosopher’s Stone  
-**Focus:** Autonomous intelligence and emergent agency  
-Study of the transformation of computational systems into independent actors.
 
 → **Read:** [Digital Philosopher’s Stone](./digital-philosophers-stone.pdf)
 
 ---
 
 ### Economic Transmutation  
-**Focus:** Structural economic transformation under machine intelligence  
-Analysis of value redistribution, labor displacement, and systemic change.
 
 → **Read:** [Economic Transmutation](./economic-transmutation.pdf)
 
