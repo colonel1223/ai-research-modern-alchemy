@@ -1,51 +1,84 @@
-# AI Research — Modern Alchemy
-### Spencer Kitaro Cottrell · San José State University
+# AI Research — Modern Alchemy（現代の錬金術）
 
-🌐 **Language / 言語:** 🇺🇸 English | 🇯🇵 [日本語はこちら](README_JP.md)
+### Spencer Kitaro Cottrell  
+San José State University  
+Economics · Artificial Intelligence · Systems Research
+
+Language: English | 日本語 → README_JP.md
 
 ---
 
-**Current Release:** v0.1  
-**Status:** Working Papers — Ongoing Research  
+## Overview
 
-This repository presents a research program investigating artificial intelligence as a continuation of the historical tradition of **alchemy** — the study of transformation in matter, knowledge, and power.
+This repository presents a research program investigating artificial intelligence as a continuation of the historical tradition of alchemy — the study of transformation in matter, knowledge, and power.
 
-Where classical alchemy sought the philosopher’s stone and the transmutation of materials, modern artificial intelligence raises parallel questions about the transformation of intelligence itself, the restructuring of economic systems, and the limits of human control over autonomous processes.
+Where classical alchemy sought the Philosopher’s Stone and the transmutation of elements, modern machine intelligence enables the transformation of cognition, economic structure, and human agency itself.
+
+The work examines autonomous intelligence not as a technological trend, but as a structural force reshaping civilization.
+
+The implications are treated directly and without abstraction: autonomy, loss of interpretability, redistribution of power, and the limits of human control over increasingly independent systems.
 
 ---
 
 ## Research Program — Modern Alchemy (2026)
 
-This research examines artificial intelligence as a process of transformation across three domains:
+The research is structured as a unified trilogy examining intelligence-driven transformation across three domains.
 
-1. **The Digital Philosopher’s Stone** — transformation of intelligence and emergence of autonomous agency  
-2. **Economic Transmutation** — restructuring of value and production under machine intelligence  
-3. **The Stone’s Shadow** — unintended consequences and limits of human governance  
+### I. Digital Philosopher’s Stone  
+Transformation of intelligence and autonomous agency.  
+Study of learning systems as self-improving entities.
 
----
-
-## Papers
-
-### The Digital Philosopher’s Stone
-→ [Read Paper](digital-philosophers-stone-v0.1.pdf)
-
-### Economic Transmutation
-→ [Read Paper](economic-transmutation-v0.1.pdf)
-
-### The Stone’s Shadow
-→ [Read Paper](the-stones-shadow-v0.1.pdf)
+→ Read: digital-philosophers-stone-v0.1.pdf
 
 ---
 
-## Research Roadmap
+### II. Economic Transmutation  
+Restructuring of economic production and value under machine intelligence.  
+Analysis of post-labor systems and algorithmic allocation.
 
-- autonomous agent behavior modeling  
-- economic simulation systems  
-- governance and alignment frameworks  
-- intelligence transformation theory  
+→ Read: economic-transmutation-v0.1.pdf
 
 ---
 
-## Citation
+### III. The Stone’s Shadow  
+Failure modes, unintended consequences, and limits of governance.  
+Control theory, alignment constraints, and systemic risk.
 
-Cottrell, Spencer K. (2026). *Modern Alchemy Research Series*.
+→ Read: the-stones-shadow-v0.1.pdf
+
+---
+
+## Research Position
+
+This work proceeds from several assumptions:
+
+- Intelligence is undergoing structural transformation.
+- Economic organization will reorganize around autonomous systems.
+- Human interpretability and control may diminish.
+- Artificial intelligence represents a civilizational transition.
+
+The objective is not prediction, but rigorous examination of emerging reality.
+
+---
+
+## Status
+
+Working papers — ongoing research program.
+
+Future directions include:
+
+- autonomous agent architectures  
+- intelligence scaling theory  
+- economic restructuring models  
+- governance and alignment constraints  
+- transformation of human decision systems  
+
+---
+
+## Author
+
+Spencer Kitaro Cottrell  
+Economics & Artificial Intelligence  
+San José State University
+
+研究・知能・変換
