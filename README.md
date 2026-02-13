@@ -1,5 +1,48 @@
 # AI Research — Modern Alchemy（現代の錬金術）
 
+---
+
+## Magnum Opus — Core Models & Visual Analysis
+
+This repository presents a unified research program on intelligence transformation, economic transmutation, and governance limits.
+
+⚠️ **New readers should begin with the models below, then read the three core papers.**
+
+---
+
+## ⚗️ Interactive Research Models
+
+### → The Magnum Opus: Probabilistic Catastrophe Model
+Interactive Bayesian and Markov analysis of civilizational transformation.
+
+👉 **Open Model:**  
+https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/magnum_opus.html
+
+---
+
+### → The Great Transmutation (Complete Visual Analysis)
+Full structural visualization of intelligence, economy, and social transition.
+
+👉 **Open Visualization:**  
+https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/the_great_transmutation.html
+
+---
+
+### → Probabilistic Models (Mathematical Analysis)
+Formal quantitative framework and empirical model specification.
+
+👉 **Read Paper:**  
+https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/Probabilistic_Models_Analysis.docx
+
+---
+
+## Required Reading Order
+
+1. Digital Philosopher’s Stone  
+2. Economic Transmutation  
+3. The Stone’s Shadow  
+4. Magnum Opus Models (above)
+
 ### Spencer Kitaro Cottrell  
 San José State University  
 Economics · Intelligence · Systems Inquiry
