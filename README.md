@@ -6,7 +6,7 @@
 
 This repository presents a unified research program on intelligence transformation, economic transmutation, and governance limits.
 
-⚠️ **New readers should begin with the models below, then read the three core papers.**
+ **New readers should begin with the models below, then read the three core papers.**
 
 ---
 
@@ -15,7 +15,7 @@ This repository presents a unified research program on intelligence transformati
 ### → The Magnum Opus: Probabilistic Catastrophe Model
 Interactive Bayesian and Markov analysis of civilizational transformation.
 
-👉 **Open Model:**  
+ **Open Model:**  
 https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/magnum_opus.html
 
 ---
