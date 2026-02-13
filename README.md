@@ -21,9 +21,9 @@ Includes:
 - Transmutation visualization suite
 
 Last Updated: Feb 13, 2026
+
 Maintainer: Spencer K. Cottrell
 
----
 
 ---
 
