@@ -13,9 +13,8 @@ Language: English | 日本語 → README_JP.md
 Research Program: Modern Alchemy  
 Current Release: Initial Research Publication  
 Version: 0.1 (Conceptual Framework)  
-Status: Active Investigation  
-Research Type: Theoretical / Structural Analysis  
-Scope: Intelligence Transformation · Economic Displacement · Governance Limits  
+
+Theoretical / Structural Analysis   Intelligence Transformation · Economic Displacement · Governance Limits  
 
 Last Updated: 2026  
 Maintainer: Spencer K. Cottrell
@@ -48,8 +47,6 @@ Primary focus:
 | Autonomous Agency Analysis | Active |
 | Economic Displacement Modeling | Active |
 | Governance Constraint Study | Active |
-| Structural Risk Analysis | Ongoing |
-| Predictive Modeling | Conceptual |
 
 ---
 
@@ -127,18 +124,6 @@ Limits of control and unintended consequence.
 
 ---
 
-## Modeling & Analytical Frameworks
-
-This research employs conceptual models of transformation.
-
-See supporting documents:
-
-- Structural Models → MODELS.md
-- Research Framework → FRAMEWORK.md
-- System Diagrams → DIAGRAMS.md
-- Research Doctrine → MANIFESTO.md
-
----
 
 ## Methodological Orientation
 
@@ -152,5 +137,30 @@ Objective: conceptual clarity and structural understanding.
 
 ---
 
-## Repository Structure
+## International Research Context
+
+The transformation of intelligence is a global inquiry.
+
+United States — large-scale computational systems  
+Japan — precision systems and human–machine integration  
+
+This research engages dialogue across international research communities, including Silicon Valley and Tokyo.
+
+---
+
+## Citation
+
+Cottrell, Spencer K. (2026). *Modern Alchemy Research Program*.  
+GitHub Repository.
+
+---
+
+## Author
+
+Spencer Kitaro Cottrell  
+Economics & Artificial Intelligence  
+San José State University
+
+研究・真理・変換
+
 
