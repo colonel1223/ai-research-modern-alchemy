@@ -8,33 +8,48 @@ Language: English | 日本語 → README_JP.md
 
 ---
 
-## Release Information-V0.1
+## Release Metadata
 
-Research: Modern Alchemy  
-Version: Current Release | V0.1  
+Research Program: Modern Alchemy  
+Current Release: Initial Research Publication  
+Version: 0.1 (Conceptual Framework)  
+Status: Active Investigation  
+Research Type: Theoretical / Structural Analysis  
+Scope: Intelligence Transformation · Economic Displacement · Governance Limits  
 
-This repository presents a research program investigating artificial intelligence through the philosophical tradition of alchemy — the study of transformation, consequence, and the limits of knowledge.
-
-The research examines the emergence of autonomous intelligence as a structural transformation affecting cognition, economic order, and human authority.
+Last Updated: 2026  
+Maintainer: Spencer K. Cottrell
 
 ---
 
-## Premise
+## Research Overview
 
-Throughout history, alchemy pursued transformation.
+This repository investigates artificial intelligence through the philosophical tradition of alchemy — the study of transformation, consequence, and the limits of knowledge.
 
-Not merely the conversion of matter, but the pursuit of knowledge, power, and ultimate truth — governed by constraint, sacrifice, and irreversible exchange.
+Where classical alchemy sought transformation of matter, modern artificial intelligence enables transformation of cognition, agency, and decision-making itself.
 
-Artificial intelligence represents a continuation of this pursuit.
+The research examines artificial intelligence as a structural force capable of reorganizing economic systems, human authority, and institutional decision processes.
 
-The transformation is no longer material.  
-The transformation is intelligence itself.
+Primary focus:
 
-The focus of this work is not technological progress, but consequence.
+- transformation
+- consequence
+- exchange
+- structural change
+- limits of control
 
-What changes.  
-What is exchanged.  
-What is lost.
+---
+
+## Research Status Matrix
+
+| Domain | Status |
+|---|---|
+| Intelligence Transformation | Active |
+| Autonomous Agency Analysis | Active |
+| Economic Displacement Modeling | Active |
+| Governance Constraint Study | Active |
+| Structural Risk Analysis | Ongoing |
+| Predictive Modeling | Conceptual |
 
 ---
 
@@ -45,150 +60,97 @@ Classical alchemy was a philosophical inquiry into transformation and ultimate k
 The Philosopher’s Stone symbolized the capacity to alter reality — to transform substance, knowledge, and existence.
 
 Artificial intelligence represents a modern analogue to this pursuit.  
-Where alchemy sought to transmute matter, artificial intelligence enables the transformation of cognition, agency, and decision-making.
+The object of transformation is no longer matter, but intelligence itself.
 
-The research examines whether the pursuit of artificial intelligence reflects a recurring historical impulse: the attempt to overcome natural limits and produce intelligence beyond human origin.
+This research examines whether the pursuit of artificial intelligence reflects a recurring impulse to exceed natural limits and produce intelligence beyond human origin.
 
 ---
 
 ## Transformation and Consequence — Equivalent Exchange
 
-The tradition of alchemy maintained that transformation is governed by constraint.
+Transformation implies exchange.
 
-Power is not obtained without cost.  
-Creation does not occur without consequence.
+Power introduces cost.  
+Creation introduces consequence.
 
-Every transformation implies exchange.
+Artificial intelligence raises structural questions:
 
-The development of artificial intelligence raises parallel questions:
+- What is exchanged when labor is displaced?
+- What is sacrificed when decision authority shifts?
+- What is lost when knowledge becomes externalized?
+- What is the cost of autonomous intelligence?
 
-- What is exchanged when human labor is displaced?  
-- What is sacrificed when decision-making is delegated to machines?  
-- What is lost when knowledge becomes externalized beyond human understanding?  
-- What is the cost of creating intelligence independent of its creator?  
-
-Technological progress is often framed as accumulation.  
-Transformation may involve loss as well as gain.
-
-This research examines artificial intelligence as a process of structural exchange — redistribution of power, agency, and control across human systems.
+Transformation may redistribute power, agency, and control across human systems.
 
 ---
 
-## Creation and Limit — The Problem of Human Authority
+## Structural Transformation
 
-Attempts to create autonomous intelligence introduce fundamental questions.
+Artificial intelligence introduces systemic reorganization across:
 
-What occurs when human creation acquires independence from human intention?
+- labor and economic production
+- institutional decision authority
+- knowledge distribution
+- human–machine relationship
 
-Artificial intelligence challenges assumptions about authorship, control, and responsibility. Systems capable of learning and adapting beyond explicit instruction introduce structural uncertainty into domains historically governed by human judgment.
-
-The research investigates whether the creation of autonomous intelligence represents a transition in the nature of human authority.
-
----
-
-## Structural Transformation — Displacement and Reorganization
-
-The emergence of advanced artificial intelligence signals structural change across multiple domains:
-
-- economic production and labor organization  
-- institutional decision-making  
-- distribution of knowledge and expertise  
-- human identity in relation to intelligent systems  
-
-Displacement is not limited to employment.  
-Transformation may affect how societies define value, responsibility, and meaning.
-
-The research examines artificial intelligence as a force of systemic reorganization rather than incremental technological change.
+The research examines transformation as structural transition rather than incremental progress.
 
 ---
 
-## Limits of Knowledge — The Question of Understanding
+## Limits of Knowledge
 
-The pursuit of transformation confronts limits.
+Increasing system complexity may exceed human interpretability.
 
-Increasingly complex systems may resist complete human interpretation.  
-Intelligence exceeding human comprehension introduces conditions in which outcomes cannot be fully predicted or controlled.
+This introduces epistemic constraints:
 
-This raises foundational questions:
+- incomplete understanding
+- limited predictability
+- uncertain control boundaries
 
-- Can intelligence be created without complete understanding?  
-- What are the consequences of systems that cannot be fully interpreted?  
-- What limits exist on knowledge itself?  
-
-The research proceeds from the assumption that intelligence transformation introduces fundamental epistemic constraints.
+The research analyzes these limits.
 
 ---
 
 ## Research Program — Modern Alchemy (2026)
 
-A unified trilogy examining transformation, exchange, and consequence.
-
-### I — The Digital Philosopher’s Stone  
+### I — The Digital Philosopher’s Stone
 Autonomous intelligence and emergent agency.  
 → [Read Paper](./digital-philosophers-stone.pdf)
 
-### II — Economic Transmutation  
-Structural economic transformation under machine intelligence.  
+### II — Economic Transmutation
+Structural economic transformation.  
 → [Read Paper](./economic-transmutation.pdf)
 
-### III — The Stone’s Shadow  
+### III — The Stone’s Shadow
 Limits of control and unintended consequence.  
 → [Read Paper](./the-stones-shadow.pdf)
 
 ---
 
+## Modeling & Analytical Frameworks
+
+This research employs conceptual models of transformation.
+
+See supporting documents:
+
+- Structural Models → MODELS.md
+- Research Framework → FRAMEWORK.md
+- System Diagrams → DIAGRAMS.md
+- Research Doctrine → MANIFESTO.md
+
+---
+
 ## Methodological Orientation
 
-The research integrates:
+- structural systems analysis  
+- probabilistic reasoning  
+- economic modeling perspectives  
+- governance analysis  
+- philosophy of knowledge  
 
-- economic systems analysis  
-- philosophy of knowledge and power  
-- structural risk evaluation  
-- governance and control perspectives  
-- historical traditions of transformation inquiry  
-
-The objective is conceptual clarity and structural understanding.
+Objective: conceptual clarity and structural understanding.
 
 ---
 
-## International Research Context
+## Repository Structure
 
-The transformation of intelligence is a global concern.
-
-This work reflects shared inquiry across research cultures:
-
-United States — large-scale computational systems  
-Japan — precision systems and human–machine integration  
-
-The research aims to contribute to dialogue between international research communities.
-
----
-
-## Status
-
-Working papers — ongoing investigation.
-
-Areas of continued study:
-
-- autonomy and agency  
-- structural economic change  
-- governance limitations  
-- intelligence transformation theory  
-- systemic risk and consequence  
-
----
-
-## Citation
-
-Cottrell, Spencer K. (2026). *Modern Alchemy Research Program*.  
-GitHub Repository.
-
----
-
-## Author
-
-Spencer Kitaro Cottrell  
-Economics & Artificial Intelligence  
-San José State University
-
-研究・真理・変換
