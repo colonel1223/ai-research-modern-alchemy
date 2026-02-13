@@ -115,15 +115,15 @@ The research analyzes these limits.
 
 ### I — The Digital Philosopher’s Stone
 Autonomous intelligence and emergent agency.  
-→ [Read Paper](./digital-philosophers-stone.pdf)
+→ [Read Paper](./digital-philosophers-stone-v0.1.pdf)
 
 ### II — Economic Transmutation
 Structural economic transformation.  
-→ [Read Paper](./economic-transmutation.pdf)
+→ [Read Paper](./economic-transmutation-v0.1.pdf)
 
 ### III — The Stone’s Shadow
 Limits of control and unintended consequence.  
-→ [Read Paper](./the-stones-shadow.pdf)
+→ [Read Paper](./the-stones-shadow-v0.1.pdf)
 
 ---
 
