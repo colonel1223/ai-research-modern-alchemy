@@ -69,6 +69,12 @@ Working papers — ongoing research program.
 
 ---
 
+## Citation
+
+Cottrell, Spencer K. (2026). *Modern Alchemy Research Series*.  
+GitHub repository: https://github.com/colonel1223/ai-research-modern-alchemy
+
+
 ## Author
 Spencer Kitaro Cottrell  
 Economics & Artificial Intelligence  
