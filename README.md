@@ -1,3 +1,6 @@
+**Current Release:** v0.1
+
+
 # AI Research — Modern Alchemy
 ### Spencer Kitaro Cottrell · San José State University
 
