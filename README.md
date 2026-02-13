@@ -11,6 +11,7 @@ Language: English | 日本語 → README_JP.md
 ## Release Metadata
 
 Research Program: Modern Alchemy  
+
 Current Release: v0.3 — Magnum Opus Release  
 Version: 0.3 (Probabilistic Modeling & Visual Systems)
 
@@ -21,9 +22,7 @@ Includes:
 - Transmutation visualization suite
 
 Last Updated: Feb 13, 2026
-
-Maintainer: Spencer K. Cottrell
-
+Maintained by: Spencer K. Cottrell
 
 ---
 
@@ -33,6 +32,7 @@ The following papers represent the central research contributions of this reposi
 & the primary theoretical and analytical foundation of the Modern Alchemy research program.
 
 For readers seeking the main work, begin here.
+
 
 ### The Digital Philosopher’s Stone  
 
@@ -51,9 +51,24 @@ For readers seeking the main work, begin here.
 
 ---
 
-## ⚗️ Magnum Opus — The Transmutation Engine
+## Magnum Opus — The Transmutation Engine & Probabilistic Instruments of Collapse
+
+> ⚠️ **CONTENT ADVISORY — DISTURBING PROJECTIONS**
+>
+> The artifacts below contain probabilistic models and visual systems analyzing **irreversible** civilizational trajectories, including:
+> **existential risk**, **cognitive dissolution**, **loss of agency**, and **absorbing terminal states**.
+>
+> Some readers may find these projections **deeply unsettling**.  
+> They are presented as **mathematical consequences of observed trends** — not as entertainment, and not as speculation.
+>
+> **Reader discretion is advised.** Proceed only if you are prepared to confront uncomfortable conclusions.
+
+
+
+
 
 Models and visuals that quantify the irreversible: extinction risk and cognitive absorption.
+
 
 - **The Death Equation (Interactive Infographic)** → `/research/magnum-opus/magnum_opus.html`
 - **Solve et Coagula (Transmutation Visualization)** → `/research/magnum-opus/dark_transmutation.html`
