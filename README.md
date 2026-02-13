@@ -34,24 +34,30 @@ The following papers represent the central research contributions of this reposi
 
 For readers seeking the main work, begin here.
 
----
 ### The Digital Philosopher’s Stone  
 
-→ **Read:** [Digital Philosopher’s Stone](./digital-philosophers-stone.pdf)
+→ **1) Read:** [Digital Philosopher’s Stone](./digital-philosophers-stone.pdf)
 
 ---
 ### Economic Transmutation  
 
-→ **Read:** [Economic Transmutation](./economic-transmutation.pdf)
+→ **2) Read:** [Economic Transmutation](./economic-transmutation.pdf)
 
 ---
 
-### The Stone’s Shadow  
-**Focus:** Limits of control and unintended consequence  
+### The Stone’s Shadow   
 
-→ **Read:** [The Stone’s Shadow](./the-stones-shadow.pdf)
+→ **3) Read:** [The Stone’s Shadow](./the-stones-shadow.pdf)
 
 ---
+
+## ⚗️ Magnum Opus — The Transmutation Engine
+
+Models and visuals that quantify the irreversible: extinction risk and cognitive absorption.
+
+- **The Death Equation (Interactive Infographic)** → `/research/magnum-opus/magnum_opus.html`
+- **Solve et Coagula (Transmutation Visualization)** → `/research/magnum-opus/dark_transmutation.html`
+- **The Vestigial State Paper (Formal Analysis)** → `/research/magnum-opus/probabilistic_models.docx`
 
 
 ## Research Overview
