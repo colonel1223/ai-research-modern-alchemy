@@ -1,15 +1,15 @@
 # AI Research — Modern Alchemy
 ### Spencer Kitaro Cottrell · San José State University
 
-This repository contains a research program investigating artificial intelligence as a transformational force across cognition, economic systems, and human governance.
+This repository contains a research program investigating artificial intelligence as a modern form of transformational process — reshaping cognition, economic systems, and human governance.
 
-The work explores how increasingly autonomous intelligence reshapes human institutions and long-term civilizational structure.
+The work studies how increasingly autonomous intelligence may restructure institutions and long-term civilizational dynamics.
 
 ---
 
 ## Research Program — Modern Alchemy (2026)
 
-This research series studies the emergence of autonomous intelligence across three levels:
+This research series examines the emergence of autonomous intelligence across three levels:
 
 1. **Intelligence** — how learning systems become autonomous agents  
 2. **Economics** — how society reorganizes around machine intelligence  
@@ -36,21 +36,6 @@ Economic restructuring and value reallocation under advanced artificial intellig
 ### The Stone’s Shadow
 Failure modes and control challenges in increasingly autonomous systems.  
 → [Read Paper](the-stones-shadow.pdf)
-
-
----
-
-### Economic Transmutation
-Analysis of economic restructuring and value reallocation under advanced artificial intelligence.
-
-→ Read paper: `economic-transmutation.pdf`
-
----
-
-### The Stone’s Shadow
-Failure modes and control challenges in increasingly autonomous systems.
-
-→ Read paper: `the-stones-shadow.pdf`
 
 ---
 
