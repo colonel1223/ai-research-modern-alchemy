@@ -8,11 +8,10 @@ Language: English | 日本語 → README_JP.md
 
 ---
 
-## Release Information
+## Release Information-V0.1
 
-Research Program: Modern Alchemy  
-Version: Initial Release  
-Status: Working Papers — Ongoing Investigation  
+Research: Modern Alchemy  
+Version: Current Release | V0.1  
 
 This repository presents a research program investigating artificial intelligence through the philosophical tradition of alchemy — the study of transformation, consequence, and the limits of knowledge.
 
