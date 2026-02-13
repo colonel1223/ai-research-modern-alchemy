@@ -22,9 +22,21 @@ Together these papers form a unified investigation into intelligence-driven tran
 ## Papers
 
 ### The Digital Philosopher’s Stone
-A theoretical framework modeling intelligence scaling as a transformation process that produces autonomous agency.
+A theoretical framework modeling intelligence scaling and autonomous agency.  
+→ [Read Paper](digital-philosophers-stone.pdf)
 
-→ Read paper: `digital-philosophers-stone.pdf`
+---
+
+### Economic Transmutation
+Economic restructuring and value reallocation under advanced artificial intelligence.  
+→ [Read Paper](economic-transmutation.pdf)
+
+---
+
+### The Stone’s Shadow
+Failure modes and control challenges in increasingly autonomous systems.  
+→ [Read Paper](the-stones-shadow.pdf)
+
 
 ---
 
