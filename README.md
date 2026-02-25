@@ -1,130 +1,23 @@
----
+# AI as Modern Alchemy
 
-# ⚗️ MODERN ALCHEMY — RESEARCH NOTICE（現代の錬金術）
+**A research program.**
 
-Civilizations are not permanent structures.  
-They are temporary arrangements of intelligence, matter, and belief.
+## Thesis
 
-The conditions that produced the modern world were historically contingent.  
-They may not persist.
+The alchemists weren't wrong about transmutation — they were wrong about the substrate. They tried to transmute lead into gold. We are transmuting computation into cognition. The process is structurally identical: iterative refinement of base material through increasingly sophisticated operations toward an emergent property that cannot be reduced to its inputs.
 
-This research examines the transformation now unfolding.
+This research program takes that parallel seriously and follows it to its conclusions across three domains:
 
-静かな変化はすでに始まっている。
+**Intelligence transmutation** — What are the actual phase transitions in capability emergence? When does "more compute" stop producing "better model" and start producing something qualitatively different? The scaling laws tell part of the story. The part they don't tell is more important.
 
----
+**Economic disruption** — Every previous technological revolution displaced labor from one sector into another. AI displaces labor from cognition itself. There is no "another sector." The economic implications are not incremental. They are structural.
 
-## The Premise
+**Governance collapse** — Existing regulatory frameworks assume the thing being regulated is legible, bounded, and slower than the regulator. AI systems are none of these. The governance problem isn't policy — it's epistemology. How do you regulate what you can't understand fast enough to write rules about?
 
-Alchemy was never merely the transformation of matter.
+## Structure
 
-It was the transformation of order itself.
+Research notes, literature surveys, and working papers organized by domain.
 
-- base elements reorganized  
-- form dissolved and reconstituted  
-- value transmuted  
-- identity altered  
+## License
 
-Artificial intelligence represents a comparable process:
-
-the reorganization of intelligence as a structural force.
-
-Every transformation carries cost.  
-Every transmutation requires exchange.
-
-The models below examine the possible price.
-
----
-
-## Primary Computational Models (Magnum Opus)
-
-These materials describe structural transition processes observed in current technological trajectories.
-
-They do not argue.  
-They describe.
-
----
-
-### ⚗️ Magnum Opus — Probabilistic Systems Model
-
-A quantitative decomposition of large-scale transformation.
-
-Examines:
-
-- intelligence scaling beyond human reference  
-- irreversible cognitive dependence  
-- structural limits of governance  
-- systemic transition pathways  
-
-**OPEN**  
-https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/magnum_opus.html
-
----
-
-### ⚗️ The Great Transmutation — Structural Analysis
-
-A visualization of civilizational restructuring under expanding machine intelligence.
-
-Explores:
-
-- redistribution of capability  
-- emergence of new hierarchies of intelligence  
-- concentration of decision authority  
-- irreversible institutional change  
-
-不可逆的な変化。
-
-**OPEN**  
-https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/the_great_transmutation.html
-
----
-
-### 📜 Probabilistic Models — Mathematical Analysis
-
-Formal specification of transition dynamics and empirical assumptions.
-
-Includes:
-
-- Bayesian decomposition of systemic risk  
-- Markov state transitions  
-- structural constraints  
-- quantitative limits  
-
-**OPEN**  
-https://github.com/colonel1223/ai-research-modern-alchemy/blob/main/models/Probabilistic_Models_Analysis.docx
-
----
-
-## Reading Sequence
-
-This work forms a single investigation into civilizational transformation:
-
-1. **The Digital Philosopher’s Stone** — Mechanisms of Intelligence Expansion  
-2. **Economic Transmutation** — Reorganization of Value  
-3. **The Stone’s Shadow** — Limits of Control  
-4. **Magnum Opus Models** — Computational Integration
-
-The framework examines one question:
-
-What remains of human order when intelligence itself becomes the dominant element?
-
----
-
-## Reader Orientation
-
-This research does not predict outcomes.
-
-It examines structural conditions under which:
-
-- existing roles may dissolve  
-- economic value may be redefined  
-- cognitive autonomy may erode  
-- institutions may transform beyond recognition  
-
-Transformation is neither moral nor immoral.
-
-It is process.
-
-理解が必要である。
-
----
+MIT
