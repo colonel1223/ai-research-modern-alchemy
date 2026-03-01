@@ -38,16 +38,3 @@ The alchemists tried to transmute lead into gold. We're transmuting computation 
 ## License
 
 MIT
-
----
-
-## Research Ecosystem
-
-These papers synthesize the empirical and theoretical work across the full research program. See [colonel1223.net](https://colonel1223.net) for the complete portfolio.
-
-| Implementation | Paper Connection |
-|---------------|-----------------|
-| [conformal-multimodal](https://github.com/colonel1223/conformal-multimodal) | "The Stone's Shadow" — distribution-free guarantees as honest epistemology |
-| [alignment-tax-quantifier](https://github.com/colonel1223/alignment-tax-quantifier) | "Economic Transmutation" — empirical data on alignment costs at scale |
-| [CHIMERA](https://github.com/colonel1223/CHIMERA) | "Digital Philosopher's Stone" — information-theoretic impossibility bounds |
-| [SHOGGOTH](https://github.com/colonel1223/SHOGGOTH) | "Lead Into Gold" — visualization of mesa-objective emergence dynamics |
